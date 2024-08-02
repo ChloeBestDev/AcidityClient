@@ -1,8 +1,5 @@
-# Rise 6.0
-source leak from 2023.2.12
-i fixed the maven build script
+# Acidity - Free and Open-Source Minecraft Hacked Client
+## About
+Acidity is a Minecraft client designed to give you an upperhand advantage (essentially a hack). It is based off of a 2023 source leak of Rise 6.0.
 
-todo:
-- fix player pitch being locked (you cannot move up or down)
-- fix some modules (killaura, nametags, and others i frogot
-- fully remove the auth instead of the china method we use (run the auth in ur pc and auth urself (china lol) )
+## Contributing
